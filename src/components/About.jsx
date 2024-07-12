@@ -53,8 +53,8 @@ const About = () => {
 
 <p>🎓 Pursued Masters Degree in Computer and Information Science at UNIVERSITY OF NORTH TEXAS. </p>
 💻 Experienced Java developer with over 5 years of hands-on experience in software development. 
-I am specialized in crafting robust applications using Java technologies like Spring Boot, Rest APIs, Spring MVC, JPA, and Servlets Frameworks. 
-My expertise also extends to developing Microservices, where I've demonstrated proficiency in designing and implementing scalable solutions.
+🛠️I am specialized in crafting robust applications using Java technologies like Spring Boot, Rest APIs, Spring MVC, JPA, and Servlets Frameworks. 
+🖥️ My expertise also extends to developing Microservices, where I've demonstrated proficiency in designing and implementing scalable solutions.
       </motion.p>
      
       <div className='mt-20 flex flex-wrap gap-10'>

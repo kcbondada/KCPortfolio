@@ -17,7 +17,8 @@ import mongodb from "./tech/mongodb.png";
 import nodejs from "./tech/nodejs.png";
 import reactjs from "./tech/reactjs.png";
 import redux from "./tech/redux.png";
-import aws from "./tech/aws.png";
+import aws from "./tech/aws.svg";
+import spring from "./tech/spring-boot.svg";
 import java from "./tech/java.png";
 import sql from "./tech/sql.svg";
 import python from "./tech/python.png";
@@ -70,6 +71,7 @@ export {
   java,
   sql,
   aws,
+  spring,
   python,
   carrent,
   jobit,

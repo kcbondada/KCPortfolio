@@ -28,6 +28,7 @@ import {
   jobit,
   tripguide,
   sql,
+  spring,
   threejs,
 } from "../assets";
 
@@ -99,7 +100,10 @@ const technologies = [
     name: "React JS",
     icon: reactjs,
   },
-  
+  {
+    name: "Spring Boot",
+    icon: spring,
+  },
  
   {
     name: "Node JS",
