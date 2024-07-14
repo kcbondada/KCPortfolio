@@ -139,7 +139,6 @@ const experiences = [
   {
     title: "Java Web App Developer",
     company_name: "University of North Texas",
-    company_link: "https://www.credly.com/badges/64a9ddd3-c483-4514-af52-7c2eda4fd5d8/linked_in_profile",
     icon: unt,
     iconBg: "#E6DEDD",
     date: "August, 2023 - May, 2024",
@@ -154,6 +153,7 @@ const experiences = [
   {
     title: "Software Engineer",
     company_name: "Legato Health Technologies LLC",
+    company_link: "https://drive.google.com/file/d/1zNU2RtxYLXJ_G9N4YflPEvxGW6bZ_02w/view?usp=sharing",
     icon: legato,
     iconBg: "#E6DEDD",
     date: "Oct 2021 - Jan 2023",
@@ -170,6 +170,7 @@ const experiences = [
   {
     title: "Associate Software Engineer",
     company_name: "Virtusa",
+    company_link: "https://drive.google.com/file/d/1Vh5jJ0XETXBRLnUY8FOMYALq9UsdNw4v/view?usp=sharing",
     icon: virtusa,
     iconBg: "#383E56",
     date: "Feb 2024 - May 2024",
