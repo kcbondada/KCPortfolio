@@ -45,10 +45,11 @@ export const navLinks = [
     id: "skills",
     title: "Skills",
   },
-  // {
-  //   id: "projects",
-  //   title: "Projects",
-  // },
+  {
+    id: "resume",
+    title: "Resume",
+    link : "https://drive.google.com/file/d/1oV_kVZu0Vtw-Uicisb5Q2yvdF3AY5_Gr/view?usp=sharing"
+  },
   {
     id: "contact",
     title: "Contact",
