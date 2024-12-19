@@ -30,6 +30,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import legato from "./company/legato.png";
 import virtusa from "./company/virtusa.jpeg";
+import goldmansachs from "./company/goldmansachs.png";
 import unt from "./company/unt1.png";
 import tesla from "./company/tesla.png";
 import linkedIn from './linkedIn.png';
@@ -67,6 +68,7 @@ export {
   unt,
   legato,
   virtusa,
+  goldmansachs,
   tesla,
   java,
   sql,

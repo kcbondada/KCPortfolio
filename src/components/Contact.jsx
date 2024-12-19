@@ -123,7 +123,21 @@ import Swal from "sweetalert2";
         <a href="https://github.com/kcbondada"><img src={github2} alt=""  height={'50px'} width={'60px'} style={{marginLeft:"4px"}}/></a>
       </motion.div> 
       </motion.div>
+      <div className="flex-[0.25] bg-gray-100 p-4 rounded-2xl">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3337.5175540685727!2d-97.16640742430101!3d33.22674206086744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864dca094c9ab621%3A0xa35e47471b5dea23!2s3330%20Eastpark%20Blvd%2C%20Denton%2C%20TX%2076201!5e0!3m2!1sen!2sus!4v1722278705637!5m2!1sen!2sus"
+            width="600"
+            height="450"
+            style={{ border: "0", width: "100%", height: "100%" }}
+            allowFullScreen=""
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+          ></iframe>
+        </div>
     </div>
+   
+      
+ 
        
       </>
   )

@@ -20,6 +20,7 @@ import {
   docker,
   meta,
   unt,
+  goldmansachs,
   legato,
   virtusa,
   tesla,
@@ -138,6 +139,22 @@ const technologies = [
 
 const experiences = [
   {
+    
+    title: "Java Full Stack Developer",
+    company_name: "Goldman Sachs",
+    icon: goldmansachs,
+    iconBg: "#E6DEDD",
+    date: "July, 2024 - till now",
+    points: [
+      "As a full-stack java developer focusing on maintaining and improving the software while pushing to integrate it further in GS ecosystem.",
+      "•Spearheaded the redesign of the authentication framework for ClearFactr, adopting modern security standards with OAuth 2.0, resulting in a 50% improvement in login performance and increased system security.",
+      "Developed and published public APIs for ClearFactr, enabling seamless integration with external systems and expanding the tool's functionality within the GS ecosystem.",
+      "Built microservices with Java and Spring Boot to support ClearFactr's core functionalities, ensuring scalable and efficient operations.",
+      "	•	Collaborated with stakeholders and cross-functional teams to gather requirements, ensuring alignment with the broader GS ecosystem goals and improving project delivery timelines by 20%.",
+    ],
+  },
+  {
+    
     title: "Java Web App Developer",
     company_name: "University of North Texas",
     icon: unt,
