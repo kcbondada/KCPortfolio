@@ -191,7 +191,7 @@ const experiences = [
     company_link: "https://drive.google.com/file/d/1Vh5jJ0XETXBRLnUY8FOMYALq9UsdNw4v/view?usp=sharing",
     icon: virtusa,
     iconBg: "#383E56",
-    date: "Feb 2024 - May 2024",
+    date: "Jun 2018 - Oct 2021",
     points: [
       "Engineered and maintained web application, resulting in a 30% increase in operational efficiency and a 20% reduction in manual errors.",
        "Enhanced data handling efficiency by 35% through the implementation of well-structured Service and Controller classes.",
