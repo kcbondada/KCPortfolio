@@ -159,7 +159,7 @@ const experiences = [
     company_name: "University of North Texas",
     icon: unt,
     iconBg: "#E6DEDD",
-    date: "August, 2023 - May, 2024",
+    date: "May, 2023 - May, 2024",
     points: [
       "Enhanced library management by developing Spring MVC controllers, leading to a 30% improvement in API response times and a 25% reduction in user-reported interface issues.",
       "Utilized core Java concepts to implement backend logic, reducing code complexity by 30% and improving system performance by 35% as measured by response times and resource utilization.",
