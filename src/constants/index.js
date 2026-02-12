@@ -21,6 +21,7 @@ import {
   meta,
   unt,
   goldmansachs,
+  rbfcu,
   legato,
   virtusa,
   tesla,
@@ -140,32 +141,43 @@ const technologies = [
 const experiences = [
   {
     
-    title: "Java Full Stack Developer",
-    company_name: "Goldman Sachs",
-    icon: goldmansachs,
+    title: "Java Developer",
+    company_name: "Randolph Books Federal Credit Union",
+    icon: rbfcu,
     iconBg: "#E6DEDD",
-    date: "July, 2024 - till now",
+    date: "March 2025 - till now",
     points: [
-      "As a full-stack java developer focusing on maintaining and improving the software while pushing to integrate it further in GS ecosystem.",
-      "•Spearheaded the redesign of the authentication framework for ClearFactr, adopting modern security standards with OAuth 2.0, resulting in a 50% improvement in login performance and increased system security.",
-      "Developed and published public APIs for ClearFactr, enabling seamless integration with external systems and expanding the tool's functionality within the GS ecosystem.",
-      "Built microservices with Java and Spring Boot to support ClearFactr's core functionalities, ensuring scalable and efficient operations.",
-      "	•	Collaborated with stakeholders and cross-functional teams to gather requirements, ensuring alignment with the broader GS ecosystem goals and improving project delivery timelines by 20%.",
+      "Designed and developed a Spring Boot–based Bulk Notification Processor to support the Online Banking platform, enabling reliable delivery of member alerts across SMS, Email, and Push notification channels.",
+      "Independently owned and delivered a production-ready release within 6 months, working closely with technical leadership to meet business and compliance requirements.",
+      "Designed and implemented Oracle database tables, configurations, to support high-volume alert processing and tracking.Enhanced and modified existing Oracle stored procedures and parent functions to insert alert records for multiple banking events such as profile updates, wire transfers, P2P transfers, check returns, and monthly deposit summaries.",
+      "Built RESTful integrations using Spring RestTemplate to invoke downstream Notification microservices, dynamically constructing request payloads based on alert templates, parameters, and delivery channels.",
+      "Integrated with third-party notification providers including Twilio (SMS), Jango (Email), and Google Firebase (Push Notifications) via downstream services, ensuring scalable and reliable delivery.",
     ],
   },
   {
     
-    title: "Java Web App Developer",
+    title: "Java Full Stack Developer",
+    company_name: "Goldman Sachs",
+    icon: goldmansachs,
+    iconBg: "#E6DEDD",
+    date: "Sep, 2024 - Dec ,2024",
+    points: [
+      "Designed and built RESTful APIs in Java and Spring Boot to support the ClearFactr platform, enabling seamless integration with external systems. Integrated end-to-end testing solutions using Selenium, achieving a 30% reduction in post-deployment issues.",
+      "Implemented API Gateway solutions (Kong) to manage authentication, rate limiting, and security policies for ClearFactr APIs, improving system scalability and preventing unauthorized access.",
+      "Integrated WebID to IAMO for the ClearFactr application, enhancing identity management and streamlining user authentication workflows",
+      "Integrated ClearFactr with AWS services (EC2, S3, Lambda, CloudWatch, DynamoDB) to improve scalability and system reliability, achieving 99.9% uptime.",
+    ],
+  },
+  {
+    
+    title: "Teaching Assistant",
     company_name: "University of North Texas",
     icon: unt,
     iconBg: "#E6DEDD",
-    date: "May, 2023 - May, 2024",
+    date: "Aug, 2023 - May, 2024",
     points: [
-      "Enhanced library management by developing Spring MVC controllers, leading to a 30% improvement in API response times and a 25% reduction in user-reported interface issues.",
-      "Utilized core Java concepts to implement backend logic, reducing code complexity by 30% and improving system performance by 35% as measured by response times and resource utilization.",
-      "Collaborated with stakeholders to implement new features, resulting in a 90% satisfaction rate among library staff and a 35% increase in patron engagement with the library management system.",
-      "Developed intuitive and responsive user interfaces using React, leading to a 50% improvement in user experience and a 20% increase in user retention rates.",
-      "	Handled very large databases (Oracle and MS-SQL) for enterprise-level applications, optimizing data storage and retrieval processes, which resulted in a 50% reduction in latency and improved overall application performance.",
+      "Assisted faculty in delivering a graduate-level Machine Learning course, supporting instruction on supervised and unsupervised learning, model evaluation, and data preprocessing.",
+      "Guided students in implementing machine learning algorithms using Python, including regression, classification, and clustering techniques.Supported labs and assignments involving data cleaning, feature engineering, and performance analysis, helping students understand practical ML workflows.",
     ],
   },
   {
@@ -191,7 +203,7 @@ const experiences = [
     company_link: "https://drive.google.com/file/d/1Vh5jJ0XETXBRLnUY8FOMYALq9UsdNw4v/view?usp=sharing",
     icon: virtusa,
     iconBg: "#383E56",
-    date: "Jun 2018 - Oct 2021",
+    date: "Jun 2019 - Oct 2021",
     points: [
       "Engineered and maintained web application, resulting in a 30% increase in operational efficiency and a 20% reduction in manual errors.",
        "Enhanced data handling efficiency by 35% through the implementation of well-structured Service and Controller classes.",
