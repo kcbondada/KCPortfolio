@@ -50,7 +50,7 @@ export const navLinks = [
   {
     id: "resume",
     title: "Resume",
-    link : "https://docs.google.com/document/d/1MhcdGfKbIWxZNFFPpsSBR4gM055l-jdB/edit?usp=drive_link&ouid=117984908986406464123&rtpof=true&sd=true"
+    link : "https://drive.google.com/file/d/1WKxtS8clBcZYAacJohqNTeyAm4ht5kdA/view?usp=drive_link"
   },
   {
     id: "contact",
@@ -144,7 +144,7 @@ const experiences = [
     title: "Java Developer",
     company_name: "Randolph Books Federal Credit Union",
     icon: rbfcu,
-    iconBg: "#E6DEDD",
+    iconBg: "#383E56",
     date: "March 2025 - till now",
     points: [
       "Designed and developed a Spring Boot–based Bulk Notification Processor to support the Online Banking platform, enabling reliable delivery of member alerts across SMS, Email, and Push notification channels.",
@@ -159,7 +159,7 @@ const experiences = [
     title: "Java Full Stack Developer",
     company_name: "Goldman Sachs",
     icon: goldmansachs,
-    iconBg: "#E6DEDD",
+    iiconBg: "#383E56",
     date: "Sep, 2024 - Dec ,2024",
     points: [
       "Designed and built RESTful APIs in Java and Spring Boot to support the ClearFactr platform, enabling seamless integration with external systems. Integrated end-to-end testing solutions using Selenium, achieving a 30% reduction in post-deployment issues.",
