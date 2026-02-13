@@ -35,7 +35,7 @@ import Swal from "sweetalert2";
     setLoading(true);
 
     emailjs
-      .send("service_gi6e5sg","template_gc7kg7p",{
+      .send("service_yj0s7oc","template_gc7kg7p",{
         from_name: form.name,
         to_name: "Kalyan Chaitanya",
         from_email: form.email,
@@ -125,7 +125,7 @@ import Swal from "sweetalert2";
       </motion.div>
       <div className="flex-[0.25] bg-gray-100 p-4 rounded-2xl">
           <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3337.5175540685727!2d-97.16640742430101!3d33.22674206086744!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864dca094c9ab621%3A0xa35e47471b5dea23!2s3330%20Eastpark%20Blvd%2C%20Denton%2C%20TX%2076201!5e0!3m2!1sen!2sus!4v1722278705637!5m2!1sen!2sus"
+            src="https://www.google.com/maps?q=7828+Pat+Booker+Rd,+Live+Oak,+TX&output=embed"
             width="600"
             height="450"
             style={{ border: "0", width: "100%", height: "100%" }}
